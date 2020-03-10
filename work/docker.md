@@ -2,7 +2,7 @@
 error while removing network: network local-dev-env_default id e0b2625faadb121d9bf6b57bf9eb6b5c56eeccc3b053f9466c36ab44e5d1c97f has active endpoints
 ```
 
-![1582531585539](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1582531585539.png)
+![1582531585539](docker.assets/1582531585539.png)
 
 ### 解决
 
