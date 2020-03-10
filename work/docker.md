@@ -26,5 +26,5 @@ error while removing network: network local-dev-env_default id e0b2625faadb121d9
 
     ![1583805074353](docker.assets/1583805074353.png)
 
-- 之后就是拉取镜像（修改local-dev-env.yml配置文件-登录公司docker账号）-》启动容器（docker-compose up -d）-》安装依赖（进入容器docker-compose exec XXX bash  - composer install）了
+- 之后就是拉取镜像（修改local-dev-env.yml配置文件-登录公司docker账号）-》启动容器（docker-compose up -d）-》安装依赖（进入容器docker-compose exec XXX bash  - composer install）了（按照老赵写的前端新人入职指南一步步来，不会错的）
 
