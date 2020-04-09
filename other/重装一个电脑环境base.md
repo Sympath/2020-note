@@ -3,7 +3,9 @@
 360 安全卫士 -》 软件管家（或无脑 next）
 
 - 社交类 - qq - 微信 - 钉钉
+
 - 学习笔记类 - Typora（md 文件） - potplayer - 百度网盘 - kinder - 网易有道词典 - 搜狗输入法
+
 - 工作类
 
   - vscode
@@ -17,44 +19,44 @@
       - [LiveReload](https://www.cnblogs.com/alex-zen/p/9811695.html) 热更新
 
       - [setting Sync](https://www.jianshu.com/p/771a1d1686d4) vscode 同步配置 (下面是 github 密钥 （alt + shift + u）以及 提取码（alt + shift + d）)
-  
+
         ```
         575253ce3de661cab14019065603fd8faea7b3a2
-      cff03cc73cbd4187dd242f3746a52ae2
+        cff03cc73cbd4187dd242f3746a52ae2
         ```
 
       - 其他
-  
+
       ```
         px2remAuto Close Tag --------自动补全html标签
-
+      
         Auto Rename Tag --------同步更改html尾标签
-  
+      
       Path Autocomplete --------文件自动路径提示
       ```
 
     - 配置
 
       - [snippet 配置]（https://www.jianshu.com/p/e1d369432fb2）
-  
+
   - goole（谷歌访问助手（网盘 grohelprt）+ 谷歌账号（3101885298wzyan@gmail.com））
-  
+
   - 谷歌扩展插件
-  
+
     - 沙拉查词
-  
+
     - Imagus   鼠标hover在图片上自动展示大图 
-  
+
     - AutoPagerize  自动加载下一页
-  
+
     - GitZip for github  不想Clone整个项目，只想下载单个文件或者单个文件夹时，用这个。
-  
+
     - User-Agent Switcher for Chrome    Chrome可以转换为别的浏览器进行访问，如IE、Safari、360甚至iOS、 Android等移动浏览器，方便用户进行测试。
-  
+
     - Clear Cache  一键清除缓存
-  
+
     - Adblock Plus  网页去广告
-  
+
       
 
 ### 教程安装
@@ -82,37 +84,7 @@
 - osxwin.com   解压密码均为 osxwin.com
 
 ### 特性
+
 Audacity 音频转换工具
 
 ### 特性
-
-#### win
-
-- [lauchy](https://www.jianshu.com/p/f76fbfb6fdc9) 快速启动应用 （alt + space）
-
-- Quicker  类似mac的popclip
-
-- typora  记得配置图片放在相对路径下![1583309151914](重装一个电脑开发环境.assets/1583309151914.png)
-
-- ### **ScreenToGif**    gif录屏工具
-
-#### mac
-
-- [Afred](https://macstore.info/a/alfred-4.html)
-
-  - Workflow
-    - [YoudaoTranslate](https://www.jianshu.com/p/a048a72f87a9)
-- iterm2 + oh-my-zsh
-- licecap  gif录屏工具
->>>>>>> - [Nvm]( https://blog.csdn.net/weixin_33997389/article/details/88677845   https://www.jianshu.com/p/2b47107e188a)
-- [Ipic](https://sspai.com/post/36275)  图床
-- [cheat sheet](https://jingyan.baidu.com/article/ed2a5d1f74c59409f6be1734.html)  快捷键助手  （长按cmd）
-- IINA 视频播放器 
-- [AirBuddy](http://www.pc6.com/mac/658751.html)   airpros的mac管理工具
-- [Bartender 3](https://xclient.info/s/bartender.html#versions)   任务栏管理工具
-- Cinch  窗口管理工具  窗口靠边全屏
-- [Unclutter](http://soft.macx.cn/5260.htm)  剪切板 （百度云盘）
-- [Popclip](http://soft.macx.cn/4739.htm)    扩展光标（百度云盘）  [扩展生态](https://pilotmoon.com/popclip/extensions/)
-  - Alfred  直接选中内容用alfred搜索
-  - [Translate Tab](https://pilotmoon.com/popclip/extensions/page/TranslateTab) 划词翻译
-- [fantastical 2](http://www.pc6.com/mac/170480.html)  日历
