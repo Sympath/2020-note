@@ -28,3 +28,10 @@ error while removing network: network local-dev-env_default id e0b2625faadb121d9
 
 - 之后就是拉取镜像（修改local-dev-env.yml配置文件-登录公司docker账号）-》启动容器（docker-compose up -d）-》安装依赖（进入容器docker-compose exec XXX bash  - composer install）了
 
+
+
+
+
+### 一些报错
+
+在执行Dockerfile时出现Get https://registry-1.docker.io/v2/错误的解决方案
