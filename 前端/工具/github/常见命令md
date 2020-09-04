@@ -4,6 +4,14 @@
 - git stash pop  应用贮藏
 - git stash drop stashName 删除贮藏
 
+### 远程仓库相关
+
+- git remote add origin  添加远程仓库
+
+- ```
+  git checkout -b local_branch &  git push origin local_branch:remote_branch   本地创建分支并推送当远端  （不加-b是切换分支）
+  ```
+
 
 
 ### 一些配置项
